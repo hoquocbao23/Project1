@@ -5,7 +5,8 @@
  */
 package main;
 
-import data.CertainSubject;
+import data2.Subjects;
+import data1.CertainSubject;
 import data.*;
 import javax.security.auth.Subject;
 
