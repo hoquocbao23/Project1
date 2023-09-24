@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package data2;
+package SubjectPack;
 
-import data1.CertainSubject;
+import CertairnPack.CertainSubject;
 import java.util.Scanner;
 
 /**

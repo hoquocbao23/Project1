@@ -5,9 +5,9 @@
  */
 package main;
 
-import data2.Subjects;
-import data1.CertainSubject;
-import data.*;
+import StudentPack.Student;
+import SubjectPack.Subjects;
+import CertairnPack.CertainSubject;
 import javax.security.auth.Subject;
 
 /**
