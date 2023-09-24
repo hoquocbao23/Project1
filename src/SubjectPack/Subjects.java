@@ -5,7 +5,7 @@
  */
 package SubjectPack;
 
-import CertairnPack.CertainSubject;
+import CertainPack.CertainSubject;
 import java.util.Scanner;
 
 /**

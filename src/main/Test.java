@@ -7,7 +7,7 @@ package main;
 
 import StudentPack.Student;
 import SubjectPack.Subjects;
-import CertairnPack.CertainSubject;
+import CertainPack.CertainSubject;
 import javax.security.auth.Subject;
 
 /**
